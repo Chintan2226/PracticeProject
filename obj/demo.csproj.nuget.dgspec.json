@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZeeGadgets\\demo\\demo.csproj": {}
+    "D:\\Project Main\\PracticeProject\\demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZeeGadgets\\demo\\demo.csproj": {
+    "D:\\Project Main\\PracticeProject\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZeeGadgets\\demo\\demo.csproj",
+        "projectUniqueName": "D:\\Project Main\\PracticeProject\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "C:\\Users\\ZeeGadgets\\demo\\demo.csproj",
-        "packagesPath": "C:\\Users\\ZeeGadgets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZeeGadgets\\demo\\obj\\",
+        "projectPath": "D:\\Project Main\\PracticeProject\\demo.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Main\\PracticeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZeeGadgets\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
